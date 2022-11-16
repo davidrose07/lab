@@ -1,4 +1,4 @@
-from account_test import Account
+from account import Account
 
 class Test:    
     def setup_method(self):
